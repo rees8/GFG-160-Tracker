@@ -12,5 +12,6 @@ The solved problems will be listed below.</br>
 ### 📝 Arrays
 - Second Largest [Visit directory](https://github.com/rees8/GFG-160-Tracker/tree/main/1.%20Arrays/1.%20Second%20Largest)
 - Move All Zeroes to End [Visit directory](https://github.com/rees8/GFG-160-Tracker/tree/main/1.%20Arrays/2.%20Move%20All%20Zeroes%20to%20End)
+- Reverse an Array [Visit directory](https://github.com/rees8/GFG-160-Tracker/tree/main/1.%20Arrays/3.%20Reverse%20an%20Array)
 
 ---
