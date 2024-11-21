@@ -14,5 +14,6 @@ The solved problems will be listed below.</br>
 - Move All Zeroes to End [Visit directory](https://github.com/rees8/GFG-160-Tracker/tree/main/1.%20Arrays/2.%20Move%20All%20Zeroes%20to%20End)
 - Reverse an Array [Visit directory](https://github.com/rees8/GFG-160-Tracker/tree/main/1.%20Arrays/3.%20Reverse%20an%20Array)
 - Rotate Array [Visit directory](https://github.com/rees8/GFG-160-Tracker/tree/main/1.%20Arrays/4.%20Rotate%20Array)
+- Next Permutation [Visit directory](https://github.com/rees8/GFG-160-Tracker/tree/main/1.%20Arrays/5.%20Next%20Permutation)
 
 ---
